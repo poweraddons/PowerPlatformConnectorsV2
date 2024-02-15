@@ -1,3 +1,5 @@
+
+
 ## DocumentsCorePack Connector
 DocumentsCorePack allows you to generate and automate your documents incorporating Dataverse and Dynamics 365 data. Based on Microsoft Word  templates, the DocumentsCorePack Connector provides you with a variety of actions to create and process your documents.
 
